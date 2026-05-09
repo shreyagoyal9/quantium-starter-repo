@@ -68,6 +68,9 @@ pytest
 
 ## 📌 Key Insight
 The visualization clearly shows the trend in sales before and after the price increase.
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
